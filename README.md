@@ -37,12 +37,37 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 + What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
   + Find the average minimum daily temperature for all of the months.
   + Plot the results as a bar chart.
+The resulting graph should be as follows:
+
+![Screenshot 2024-12-28 at 10 27 05 p m](https://github.com/user-attachments/assets/6d3d7509-fbf9-488c-abb0-e410cbfe9e31)
+
+And the same graph sorted from highest to lowest should be as follows:
+
+![Screenshot 2024-12-28 at 10 28 07 p m](https://github.com/user-attachments/assets/f9c8a490-bdc6-4f98-a99f-d9f253c830ee)
+
+
 + Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
   + Find the average daily atmospheric pressure of all the months.
   + Plot the results as a bar chart.
+ 
+The resulting graph should be as follows:
+
+![Screenshot 2024-12-28 at 10 21 13 p m](https://github.com/user-attachments/assets/da425f5c-0b82-402c-b81a-e848a5438fb3)
+
+And the same graph sorted from lowest to highest should be as follows:
+
+![Screenshot 2024-12-28 at 10 21 19 p m](https://github.com/user-attachments/assets/e0acbe22-aa37-4fd1-943d-dc79e6a3d900)
+
+
 + About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
   + Consider how many days elapse on Earth in the time that Mars circles the Sun once.
   + Visually estimate the result by plotting the daily minimum temperature of each observation.
+
+The resulting graph should be as follows:
+
+![Screenshot 2024-12-28 at 10 21 27 p m](https://github.com/user-attachments/assets/05deb8f8-5712-4181-8030-76053061fd50)
+
+
 6. Export the DataFrame to a CSV file.
   
   
