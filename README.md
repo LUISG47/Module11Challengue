@@ -39,11 +39,12 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
   + Plot the results as a bar chart.
 The resulting graph should be as follows:
 
-![Screenshot 2024-12-28 at 10 27 05 p m](https://github.com/user-attachments/assets/6d3d7509-fbf9-488c-abb0-e410cbfe9e31)
+![Screenshot 2025-01-05 at 3 59 42 p m](https://github.com/user-attachments/assets/a08ffa53-4763-48a8-bc48-fb31bfe4679b)
+
 
 And the same graph sorted from highest to lowest should be as follows:
 
-![Screenshot 2024-12-28 at 10 28 07 p m](https://github.com/user-attachments/assets/f9c8a490-bdc6-4f98-a99f-d9f253c830ee)
+![Screenshot 2025-01-05 at 3 59 35 p m](https://github.com/user-attachments/assets/978a4f37-3942-4dd5-8003-7d28ebf8b04a)
 
 
 + Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
@@ -69,7 +70,9 @@ The resulting graph should be as follows:
 
 
 6. Export the DataFrame to a CSV file.
-  
+
+The resulting file will be stored in the Resources folder and it will be named mars_weather_data.csv
+
   
   
 
